@@ -26,8 +26,14 @@ body {
 
 /* site-nav */
 .site-nav {
-color: #212121 ;
+    color: #212121 ;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
 }
+
+
 .site-nav :hover,
 .site-nav :focus {
     color: #2196F3 ;
@@ -36,6 +42,10 @@ color: #212121 ;
 /* cont-nav */
 .cont-nav {
     color: #757575
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
 }
 .cont-nav :hover,
 .cont-nav :focus {
