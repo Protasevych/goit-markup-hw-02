@@ -84,7 +84,8 @@ color: #212121 ;
     background-color: #2F303A ;
 }
 
-.address-link :hover{
+.address-link :hover,
+.address-link :focus{
     color:#2196F3;
 }
 .address{
