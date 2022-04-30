@@ -1,0 +1,110 @@
+body {
+    background-color: #FFFFFF;
+    color: #212121 ;
+    font-family: roboto, sans-serif;
+    letter-spacing: 0.03em;
+}
+
+.list {
+    list-style: none;
+}
+
+.logo {
+    color: #2196F3 ;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+}
+.logo-black {
+    color: #212121;
+}                                       
+.logo-white {
+    color: #FFFFFF;
+}
+
+
+/* site-nav */
+.site-nav {
+color: #212121 ;
+}
+.site-nav :hover,
+.site-nav :focus {
+    color: #2196F3 ;
+}
+
+/* cont-nav */
+.cont-nav {
+    color: #757575
+}
+.cont-nav :hover,
+.cont-nav :focus {
+    color: #2196F3;
+}
+
+
+
+
+
+.main {
+    background-color: #E5E5E5;
+}
+.buttons {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+}
+.buttons :hover,
+.buttons :focus{
+    color: #2196F3;
+}
+.button{
+    cursor: pointer;
+}
+
+
+/* Projects */
+.projects h3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+}
+
+.projects p{
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 0.03em;   
+}
+
+
+
+/* footer */
+.footer {
+    background-color: #2F303A ;
+}
+
+.address-link :hover{
+    color:#2196F3;
+}
+.address{
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 1.7;
+}
+.link{
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    line-height: 1.7;
+} 
+
+
+/* колір заголовків #212121; */
+
+/* вторинний колір тексту #757575; */
+
+/* акцент #2196F3; */
+
+/* колір контактів футер rgba(255, 255, 255, 0.6); */
+
+/* #EEEEEE */
