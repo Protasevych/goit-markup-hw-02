@@ -116,16 +116,21 @@ body {
 
 
 .main {
+ 
     background-color: #E5E5E5;
 }
-.buttons {
+.button {
+    background-color: #F5F4FA;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.6;
 }
-.buttons :hover,
+
+
+.buttons > li :hover,
 .buttons :focus{
-    color: #2196F3;
+    background-color: #2196F3;
+    color: #FFFFFF;
 }
 .button{
     cursor: pointer;
